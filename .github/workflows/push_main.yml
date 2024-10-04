@@ -24,6 +24,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:latest
+          tags: whwlsvy12/test:latest
           cache-from: type=gha # 여기서 gha 는 Guthub Actions 용 캐시를 의미합니다.
           cache-to: type=gha,mode=max
