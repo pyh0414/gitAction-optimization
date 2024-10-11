@@ -25,5 +25,5 @@ app.post("/api/data", (req: Request, res: Response) => {
 
 // 서버 시작
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Server is running on http:s//localhost:${port}`);
 });
