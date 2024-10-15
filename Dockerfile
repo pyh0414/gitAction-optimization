@@ -34,7 +34,6 @@ EXPOSE 3000
 # # 4. 의존성 설치
 # RUN npm install
 
-
 # # 6. TypeScript 컴파일
 # RUN npx tsc
 
